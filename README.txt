@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://docs.github.com/)
+- Solution URL: ((https://jinndu.github.io/JINNDU-DESIGNS/)
+- Live Site URL:(https://docs.github.com/)
 
 
 ### Built with
@@ -48,7 +48,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Jinndu](https://www.your-site.com)
+- Website - [Jinndu](https://jinndu.github.io/JINNDU-DESIGNS/)
 - Frontend Mentor - [Jinndu](https://www.frontendmentor.io/profile/Jinndu)
 - Twitter - [AngeloBliss27](https://www.twitter.com/Angelobliss27)
 
