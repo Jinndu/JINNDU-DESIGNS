@@ -1,0 +1,90 @@
+body{
+  background-color:hsl(30, 38%, 92%);
+  text-align: center;
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.875rem;
+}
+.surface{
+  background-color: white;
+  width: 60%;
+  border-radius: 0;
+  position: relative;
+  text-align: left;
+}
+img{
+  width: 0;
+  border-radius: 8px;
+}
+.mobile{
+  margin-top: 5%;
+  width: 95%;
+  border-radius: 8px;
+}
+
+h1{
+  color: hsl(212, 21%, 14%);
+  width: 80%;
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+  padding-left: 6%;
+  line-height: 0.93;
+}
+.btn {
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  background: hsl(158, 36%, 37%);
+  padding: 10px 6px 10px 80px;
+  text-decoration: none;
+  display: block;
+  width: 50%;
+  margin-left: 5%;
+  margin-top: 23px;
+}
+
+.description{
+  width: 93%;
+  padding-left: 5%;
+  line-height: 2;
+  margin-bottom: 30px;
+}
+.body{
+  padding-top: 24px;
+}
+h3{
+  color: hsl(228, 12%, 48%);
+  padding-left: 9%;
+  width: 20%;
+  font-size: 87.50%;
+  line-height: 2;
+}
+.price{
+  font-family: 'Fraunces', serif;
+  font-size: 235%;
+  color:  hsl(158, 36%, 37%);
+  display: inline;
+  margin-right: 80%;
+  padding-left: 9%;
+}
+.old-price{
+  display: inline;
+  text-decoration: line-through;
+  position: absolute;
+  bottom: 12%;
+  left: 49%;
+}
+.CART{
+  width: 13%;
+  position: absolute;
+  bottom: 4%;
+  left: 20%;
+  color: white;
+}
+.btn:hover {
+  background: #204d3c;
+  text-decoration: none;
+}
